@@ -1,6 +1,8 @@
 # PredictiveAnalyticsCourse
 
-## Catalog Description: The course presents comprehensive introduction to advanced data mining and predictive modeling techniques. Topics of predictive analytics include regularization, feature selection, engineering, or importance analysis, hyperparameter optimization, calibration of models, ensemble learning, anomaly detection, and advanced clustering algorithms.
+## Catalog Description: 
+
+The course presents comprehensive introduction to advanced data mining and predictive modeling techniques. Topics of predictive analytics include regularization, feature selection, engineering, or importance analysis, hyperparameter optimization, calibration of models, ensemble learning, anomaly detection, and advanced clustering algorithms.
 
 ## Course Prerequisites: Credit in CS 5310 (Data Mining)
 
